@@ -34,6 +34,13 @@ I like turning problems into things that actually run — and then making them r
 
 ---
 
+## 🤝 Open-source contributions
+
+- [`testrium/testrium` #13](https://github.com/testrium/testrium/pull/13) — removed leftover `Pramana` references from 7 files and aligned examples with the repo's current `Testrium` names. Docs/chore, 50 lines changed, open for review.
+- [`skolo-saka/school-directory` #7](https://github.com/skolo-saka/school-directory/pull/7) — documented the public search API's error contract (400/403/405/429/503, 204 preflight, exact bodies and headers) from the handler and its tests. Docs-only, open for review.
+
+---
+
 ## 🎯 Open to opportunities
 
 Looking for **SDE / Web Developer internships** — remote, on-site or hybrid in India.
